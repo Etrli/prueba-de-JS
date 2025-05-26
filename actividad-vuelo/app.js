@@ -58,7 +58,7 @@ const mostrarReservaAvion=(reserva) =>{
     <p><strong>Clase:</strong> ${reserva.clase}</p>
     <p><strong>Equipaje:</strong> ${reserva.equipajeAdicional}</p>`;
 }
-
+//me falta entender el reserva.nombre ya que no entiendo como funciona
 
 
 //### 4. Interacción
